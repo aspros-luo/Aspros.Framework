@@ -1,0 +1,12 @@
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Consul/bin/Debug/netstandard2.0/Framework.Infrastructure.Consul.deps.json
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Consul/bin/Debug/netstandard2.0/Framework.Infrastructure.Consul.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Consul/bin/Debug/netstandard2.0/Framework.Infrastructure.Consul.pdb
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Consul/bin/Debug/netstandard2.0/Framework.Consul.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Consul/bin/Debug/netstandard2.0/Framework.Consul.pdb
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Consul/obj/Debug/netstandard2.0/Framework.Infrastructure.Consul.csprojAssemblyReference.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Consul/obj/Debug/netstandard2.0/Framework.Infrastructure.Consul.csproj.CoreCompileInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Consul/obj/Debug/netstandard2.0/Framework.Infrastructure.Consul.AssemblyInfoInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Consul/obj/Debug/netstandard2.0/Framework.Infrastructure.Consul.AssemblyInfo.cs
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Consul/obj/Debug/netstandard2.0/Framework.Infrastructure.Consul.csproj.CopyComplete
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Consul/obj/Debug/netstandard2.0/Framework.Infrastructure.Consul.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Consul/obj/Debug/netstandard2.0/Framework.Infrastructure.Consul.pdb

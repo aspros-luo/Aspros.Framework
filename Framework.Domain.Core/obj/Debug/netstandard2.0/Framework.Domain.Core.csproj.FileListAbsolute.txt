@@ -1,0 +1,14 @@
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Domain.Core/bin/Debug/netstandard2.0/Framework.Domain.Core.deps.json
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Domain.Core/bin/Debug/netstandard2.0/Framework.Domain.Core.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Domain.Core/bin/Debug/netstandard2.0/Framework.Domain.Core.pdb
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Domain.Core/bin/Debug/netstandard2.0/Framework.Infrastructure.Interfaces.Core.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Domain.Core/bin/Debug/netstandard2.0/Framework.Infrastructure.Ioc.Core.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Domain.Core/bin/Debug/netstandard2.0/Framework.Infrastructure.Interfaces.Core.pdb
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Domain.Core/bin/Debug/netstandard2.0/Framework.Infrastructure.Ioc.Core.pdb
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Domain.Core/obj/Debug/netstandard2.0/Framework.Domain.Core.csprojAssemblyReference.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Domain.Core/obj/Debug/netstandard2.0/Framework.Domain.Core.csproj.CoreCompileInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Domain.Core/obj/Debug/netstandard2.0/Framework.Domain.Core.AssemblyInfoInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Domain.Core/obj/Debug/netstandard2.0/Framework.Domain.Core.AssemblyInfo.cs
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Domain.Core/obj/Debug/netstandard2.0/Framework.Domain.Core.csproj.CopyComplete
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Domain.Core/obj/Debug/netstandard2.0/Framework.Domain.Core.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Domain.Core/obj/Debug/netstandard2.0/Framework.Domain.Core.pdb

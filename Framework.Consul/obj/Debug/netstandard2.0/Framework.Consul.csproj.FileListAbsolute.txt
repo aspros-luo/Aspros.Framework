@@ -1,0 +1,6 @@
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Consul/bin/Debug/netstandard2.0/Framework.Consul.deps.json
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Consul/bin/Debug/netstandard2.0/Framework.Consul.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Consul/bin/Debug/netstandard2.0/Framework.Consul.pdb
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Consul/obj/Debug/netstandard2.0/Framework.Consul.csproj.CoreCompileInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Consul/obj/Debug/netstandard2.0/Framework.Consul.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Consul/obj/Debug/netstandard2.0/Framework.Consul.pdb

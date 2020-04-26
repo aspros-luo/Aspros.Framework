@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Framework.Infrastructure.Middleware.Core/ApiSubActionFilter.cs" Line="1" Column="1" />
+      <File FileName="Framework.Infrastructure.Swagger/CustomDocumentFilter.cs" Line="21" Column="96" />
+      <File FileName="Framework.Infrastructure.Swagger/CustomOperationFilter.cs" Line="126" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Aspros.Framework" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>SchoolPrecaution.DataToObject/Aspros.DTO/Aspros.DTO.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

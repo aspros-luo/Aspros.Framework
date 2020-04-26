@@ -1,0 +1,12 @@
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.MessageModel/bin/Debug/netstandard2.0/Aspros.MessageModel.deps.json
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.MessageModel/bin/Debug/netstandard2.0/Aspros.MessageModel.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.MessageModel/bin/Debug/netstandard2.0/Aspros.MessageModel.pdb
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.MessageModel/bin/Debug/netstandard2.0/Aspros.ValueObjects.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.MessageModel/bin/Debug/netstandard2.0/Aspros.ValueObjects.pdb
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.MessageModel/obj/Debug/netstandard2.0/Aspros.MessageModel.csprojAssemblyReference.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.MessageModel/obj/Debug/netstandard2.0/Aspros.MessageModel.csproj.CoreCompileInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.MessageModel/obj/Debug/netstandard2.0/Aspros.MessageModel.AssemblyInfoInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.MessageModel/obj/Debug/netstandard2.0/Aspros.MessageModel.AssemblyInfo.cs
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.MessageModel/obj/Debug/netstandard2.0/Aspros.MessageModel.csproj.CopyComplete
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.MessageModel/obj/Debug/netstandard2.0/Aspros.MessageModel.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.MessageModel/obj/Debug/netstandard2.0/Aspros.MessageModel.pdb

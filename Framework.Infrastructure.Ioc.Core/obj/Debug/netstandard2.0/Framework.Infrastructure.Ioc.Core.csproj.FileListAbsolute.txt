@@ -1,0 +1,8 @@
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Ioc.Core/bin/Debug/netstandard2.0/Framework.Infrastructure.Ioc.Core.deps.json
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Ioc.Core/bin/Debug/netstandard2.0/Framework.Infrastructure.Ioc.Core.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Ioc.Core/bin/Debug/netstandard2.0/Framework.Infrastructure.Ioc.Core.pdb
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Ioc.Core/obj/Debug/netstandard2.0/Framework.Infrastructure.Ioc.Core.csproj.CoreCompileInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Ioc.Core/obj/Debug/netstandard2.0/Framework.Infrastructure.Ioc.Core.AssemblyInfoInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Ioc.Core/obj/Debug/netstandard2.0/Framework.Infrastructure.Ioc.Core.AssemblyInfo.cs
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Ioc.Core/obj/Debug/netstandard2.0/Framework.Infrastructure.Ioc.Core.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Ioc.Core/obj/Debug/netstandard2.0/Framework.Infrastructure.Ioc.Core.pdb

@@ -1,0 +1,12 @@
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Swagger/bin/Debug/netstandard2.0/Framework.Infrastructure.Swagger.deps.json
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Swagger/bin/Debug/netstandard2.0/Framework.Infrastructure.Swagger.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Swagger/bin/Debug/netstandard2.0/Framework.Infrastructure.Swagger.pdb
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Swagger/bin/Debug/netstandard2.0/Framework.Common.Core.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Swagger/bin/Debug/netstandard2.0/Framework.Common.Core.pdb
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Swagger/obj/Debug/netstandard2.0/Framework.Infrastructure.Swagger.csprojAssemblyReference.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Swagger/obj/Debug/netstandard2.0/Framework.Infrastructure.Swagger.csproj.CoreCompileInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Swagger/obj/Debug/netstandard2.0/Framework.Infrastructure.Swagger.AssemblyInfoInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Swagger/obj/Debug/netstandard2.0/Framework.Infrastructure.Swagger.AssemblyInfo.cs
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Swagger/obj/Debug/netstandard2.0/Framework.Infrastructure.Swagger.csproj.CopyComplete
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Swagger/obj/Debug/netstandard2.0/Framework.Infrastructure.Swagger.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Swagger/obj/Debug/netstandard2.0/Framework.Infrastructure.Swagger.pdb

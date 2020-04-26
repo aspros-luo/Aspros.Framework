@@ -1,0 +1,12 @@
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Middleware.Core/bin/Debug/netstandard2.0/Framework.Infrastructure.Middleware.Core.deps.json
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Middleware.Core/bin/Debug/netstandard2.0/Framework.Infrastructure.Middleware.Core.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Middleware.Core/bin/Debug/netstandard2.0/Framework.Infrastructure.Middleware.Core.pdb
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Middleware.Core/bin/Debug/netstandard2.0/Framework.Common.Core.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Middleware.Core/bin/Debug/netstandard2.0/Framework.Common.Core.pdb
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Middleware.Core/obj/Debug/netstandard2.0/Framework.Infrastructure.Middleware.Core.csprojAssemblyReference.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Middleware.Core/obj/Debug/netstandard2.0/Framework.Infrastructure.Middleware.Core.csproj.CoreCompileInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Middleware.Core/obj/Debug/netstandard2.0/Framework.Infrastructure.Middleware.Core.AssemblyInfoInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Middleware.Core/obj/Debug/netstandard2.0/Framework.Infrastructure.Middleware.Core.AssemblyInfo.cs
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Middleware.Core/obj/Debug/netstandard2.0/Framework.Infrastructure.Middleware.Core.csproj.CopyComplete
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Middleware.Core/obj/Debug/netstandard2.0/Framework.Infrastructure.Middleware.Core.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Framework.Infrastructure.Middleware.Core/obj/Debug/netstandard2.0/Framework.Infrastructure.Middleware.Core.pdb

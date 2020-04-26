@@ -1,0 +1,8 @@
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.DTO/bin/Debug/netstandard2.0/Aspros.DTO.deps.json
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.DTO/bin/Debug/netstandard2.0/Aspros.DTO.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.DTO/bin/Debug/netstandard2.0/Aspros.DTO.pdb
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.DTO/obj/Debug/netstandard2.0/Aspros.DTO.csproj.CoreCompileInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.DTO/obj/Debug/netstandard2.0/Aspros.DTO.AssemblyInfoInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.DTO/obj/Debug/netstandard2.0/Aspros.DTO.AssemblyInfo.cs
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.DTO/obj/Debug/netstandard2.0/Aspros.DTO.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.DTO/obj/Debug/netstandard2.0/Aspros.DTO.pdb

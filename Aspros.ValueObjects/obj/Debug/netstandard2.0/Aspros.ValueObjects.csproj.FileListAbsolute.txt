@@ -1,0 +1,9 @@
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.ValueObjects/bin/Debug/netstandard2.0/Aspros.ValueObjects.deps.json
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.ValueObjects/bin/Debug/netstandard2.0/Aspros.ValueObjects.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.ValueObjects/bin/Debug/netstandard2.0/Aspros.ValueObjects.pdb
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.ValueObjects/obj/Debug/netstandard2.0/Aspros.ValueObjects.csprojAssemblyReference.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.ValueObjects/obj/Debug/netstandard2.0/Aspros.ValueObjects.csproj.CoreCompileInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.ValueObjects/obj/Debug/netstandard2.0/Aspros.ValueObjects.AssemblyInfoInputs.cache
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.ValueObjects/obj/Debug/netstandard2.0/Aspros.ValueObjects.AssemblyInfo.cs
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.ValueObjects/obj/Debug/netstandard2.0/Aspros.ValueObjects.dll
+/Users/kk/Documents/Dotnet/Aspros.Framework/Aspros.ValueObjects/obj/Debug/netstandard2.0/Aspros.ValueObjects.pdb

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <VersionPrefix>0.0.1</VersionPrefix>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+  </PropertyGroup>
+
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\RawRabbit.Enrichers.GlobalExecutionId\RawRabbit.Enrichers.GlobalExecutionId.csproj" />
+    <ProjectReference Include="..\RawRabbit.Operations.Publish\RawRabbit.Operations.Publish.csproj" />
+    <ProjectReference Include="..\RawRabbit.Enrichers.MessageContext.Subscribe\RawRabbit.Enrichers.MessageContext.Subscribe.csproj" />
+    <ProjectReference Include="..\RawRabbit.Operations.StateMachine\RawRabbit.Operations.StateMachine.csproj" />
+    <ProjectReference Include="..\RawRabbit.Operations.Tools\RawRabbit.Operations.Tools.csproj" />
+  </ItemGroup>
+
+
+
+</Project>
